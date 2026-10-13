@@ -2,7 +2,7 @@
 A discrete synchronous Buck converter operating at 200 kHz, capable of stepping down an input voltage from 12–36 V to a regulated 6.35 V output delivering up to 2.25 A with >70% efficiency.
 
 ## 📸 Gallery
-![3D PCB Render](BUCK/Fuente-Buck_Esquematico.png)
+![Schematic](BUCK/Fuente-Buck_Esquematico.png)
 ![Final Assembly](BUCK/Fuente-Buck_Fin-1.jpeg)
 
 ## 🎯 Main Features
@@ -35,7 +35,7 @@ Instead of using an integrated PWM controller IC, the feedback and control loops
 
 ## 🚀 Measurement Tests & Performance
 
-![Line Regulation Curve](BUCK/Vout_vs_Vin.png)
-![Load Regulation Curve](BUCK/Vout_vs_Rout.png)
+![Line Regulation Curve](BUCK/Fuente-Buck_Vout-vs-Vin.png)
+![Load Regulation Curve](BUCK/Fuente-Buck_Vout_vs_Rout.png)
 ![Efficiency Graph](BUCK/Fuente-Buck_Eficiencia.png)
 ![Oscilloscope Waveform](BUCK/Fuente-Buck_Osciloscopio.jpeg)
